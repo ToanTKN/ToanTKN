@@ -1,4 +1,3 @@
-![snake gif](https://github.com/ToanTKN/ToanTKN/blob/output/github-contribution-grid-snake-dark.svg)
 <div align="center">
 
 # 👋 Hi
